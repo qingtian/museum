@@ -1,0 +1,41 @@
+# ---------------- #
+#   Main Configs   #
+# ---------------- #
+baseurl: 
+url: https://museum.qingtian16265.com
+date_format: "ordinal"
+title: 晴天的博物馆足迹
+author: qingtian16265
+
+# ---------------- #
+#   RSS / Email    #
+# ---------------- #
+subscribe_rss: /feed.xml
+email:
+
+# ---------------- #
+#      Jekyll      #
+# ---------------- #
+markdown: kramdown
+kramdown:
+    input: GFM
+paginate: 9
+permalink: /:year/:month/:day/:title/
+gems:
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-feed
+    - jemoji
+collections:
+    wiki:
+        output: true
+        permalink: /wiki/:path/
+
+# ga
+ga_track_id: 'G-9161RDBXDC'
+
+# Valine
+valine: true
+valine_appId: S977wNmHHWDBCEsM1vYWqndV-gzGzoHsz
+valine_appKey: wObdRgyhkP966Th4L22tyVVp
+valine_placeHolder: 快来发表一下你的看法吧！
