@@ -4,7 +4,7 @@ title: 浙江省自然博物馆
 categories: [浙江省, 自然博物馆]
 description: 浙江省自然博物馆
 keywords: keyword1, keyword2
-valine-path: '/2023/02/04/zhejiang-provincial-museum-of-nature/'
+valine-path: '/2023/02/05/zhejiang-provincial-museum-of-nature/'
 ---
 
 虽然今天的天气还是雾蒙蒙的，地面也有点湿，但是周五就预约好的去博物馆的安排并不会受影响，照例出行。只不过，为了方便，还是选择开车比较好。好不容易开车到地方了，地库是立体车位，还是花了点力气的。到地面后，我们直接上了1楼找到了博物馆。
